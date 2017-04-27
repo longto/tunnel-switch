@@ -9,7 +9,9 @@ function FindProxyForURL(url, host)
         ,'blogspot.com'
         ,'bit.ly'
         ,'gmail.com'
-
+        ,'truyentranh.net'
+        ,'vechai.info'
+        
         ,'feedburner.com'
         ,'flickr.com'
         ,'friendfeed.com'
