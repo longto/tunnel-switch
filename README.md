@@ -11,6 +11,7 @@ function FindProxyForURL(url, host)
         ,'gmail.com'
         ,'truyentranh.net'
         ,'vechai.info'
+        ,'glassdoor.com'
         
         ,'feedburner.com'
         ,'flickr.com'
