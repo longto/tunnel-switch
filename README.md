@@ -13,6 +13,7 @@ function FindProxyForURL(url, host)
         ,'vechai.info'
         ,'glassdoor.com'
         ,'mediafire.com'
+        ,'mp3.zing.vn'
         
         ,'feedburner.com'
         ,'flickr.com'
