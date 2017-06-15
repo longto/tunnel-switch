@@ -14,6 +14,7 @@ function FindProxyForURL(url, host)
         ,'glassdoor.com'
         ,'mediafire.com'
         ,'mp3.zing.vn'
+        ,'sublimetext.com'
         
         ,'feedburner.com'
         ,'flickr.com'
