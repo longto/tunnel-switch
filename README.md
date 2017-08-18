@@ -15,6 +15,7 @@ function FindProxyForURL(url, host)
         ,'mediafire.com'
         ,'mp3.zing.vn'
         ,'sublimetext.com'
+        ,'armorgames.com'
         
         ,'feedburner.com'
         ,'flickr.com'
