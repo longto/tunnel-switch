@@ -16,6 +16,7 @@ function FindProxyForURL(url, host)
         ,'mp3.zing.vn'
         ,'sublimetext.com'
         ,'armorgames.com'
+        ,'edgebee.com'
         
         ,'feedburner.com'
         ,'flickr.com'
