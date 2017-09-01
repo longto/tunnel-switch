@@ -17,6 +17,7 @@ function FindProxyForURL(url, host)
         ,'sublimetext.com'
         ,'armorgames.com'
         ,'edgebee.com'
+        ,'static.licdn.com'
         
         ,'feedburner.com'
         ,'flickr.com'
